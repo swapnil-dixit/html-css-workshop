@@ -1,0 +1,63 @@
+
+ @media(max-width:900px) and (min-width:501px)
+ {
+	.wrapper{
+		overflow:hidden;
+	}
+	.svg-icons{
+		overflow: auto;
+		}
+	.logoimg{
+		padding-top: 36px;
+		}
+	    
+	.svg-icons ul{
+		float:left;
+		}
+	.mid-wrapper{
+		overflow:hidden;
+		}
+	.content{
+	  padding: 0 10px 0 0;
+	}
+    .content {
+	
+	 width: 50%;
+	 float: left;
+	  
+      }
+	  
+	.righ-nav{
+		width: 34%;
+		float: left;
+		padding: 0 15px;
+		margin: 0px 15px 15px 0px;
+		}
+  
+	.imgcaption{
+		  float:none;
+		  width:auto;
+	  }
+  .services{
+	 
+	     float: left;
+    width: 30%;
+	 
+  }
+  footer section{
+	float: left;
+    width: 25%;
+  
+  }
+  .contact-info input{
+	  border-radius: 10px;
+    width: 86%;
+    font-size: 8px;
+    background: #c6c6c6;
+    border: none;
+    height: 30px;
+  }
+}​
+ 
+ 
+

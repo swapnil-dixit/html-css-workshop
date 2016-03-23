@@ -1,0 +1,51 @@
+.icon-arrows_move2:before {
+    content: "\e900";
+	color:#7d7d7d;
+	font-size: 55px;
+}
+.icon-arrows_plus:before {
+    content: "\e901";
+	color:#7d7d7d;
+	font-size: 55px;
+}
+.icon-arrows_question:before {
+    content: "\e902";
+	color:#7d7d7d;
+	font-size: 55px;
+}
+.icon-arrows_right_double-31:before {
+    content: "\e903";
+	color:#7d7d7d;
+	font-size: 55px;
+}
+.icon-arrows_rotate_anti_dashed:before {
+    content: "\e904";
+	color:#7d7d7d;
+	font-size: 55px;
+}
+.icon-arrows_shrink_diagonal1:before {
+    content: "\e905";
+	color:#7d7d7d;
+	font-size: 55px;
+	
+}
+.icon-arrows_sign_left:before {
+    content: "\e906";
+	color:#a5b6c4;
+	font-size: 18px;
+}
+.icon-arrows_sign_right:before {
+    content: "\e907";
+	color:#a5b6c4;
+	font-size: 18px;
+}
+.icon-arrows_slide_right1:before {
+    content: "\e908";
+	color:#a5b6c4;
+	font-size: 18px;
+}
+.icon-arrows_square_left:before {
+    content: "\e909";
+	color:#a5b6c4;
+	font-size: 18px;
+}
