@@ -18,46 +18,55 @@
 		overflow:hidden;
 		}
 	.content{
+		width:50%;
 	  padding: 0 10px 0 0;
 	}
     .content {
 	
 	 width: 50%;
 	 float: left;
-	  
-      }
+	 }
+	 
+	  input[type="text"]{
+		 width:61%;
+	 }
+	 
+	 button{
+		 width:37%;
+	 }
 	  
 	.righ-nav{
 		width: 34%;
-		float: left;
-		padding: 0 15px;
-		margin: 0px 15px 15px 0px;
+		
 		}
-  
+    
 	.imgcaption{
 		  float:none;
 		  width:auto;
 	  }
   .services{
-	 
-	     float: left;
-    width: 30%;
-	 
+	   width: 22%;
+	  }
+  
+  footer{
+	  padding:0;
   }
   footer section{
-	float: left;
     width: 25%;
   
   }
+  . contact-info{
+	  width:25%;
+  }
   .contact-info input{
-	  border-radius: 10px;
-    width: 86%;
+	border-radius: 10px;
+    width: 100%;
     font-size: 8px;
     background: #c6c6c6;
     border: none;
     height: 30px;
   }
-}​
+}
  
  
 

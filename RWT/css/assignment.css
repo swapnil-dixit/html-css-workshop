@@ -278,4 +278,89 @@ table td:nth-child(2){
 	border-right:none;
 }
 
+@media (min-width:900px){
+	.content{
+	font-family: 'robotoregular', Arial, sans-serif;
+	width: 68%;
+	float: left;
+	margin:0px 15px 15px 15px;
+	padding-left: 20px;
+	line-height: 20px;
+	
+	}
+	
+	 .righ-nav{
+		width:22%;
+	}  
+	.mid-wrapper{
+		overflow:hidden;
+	}
+	
+	.imgcaption{
+		width:28%;
+	}
+	
+	footer section{
+		width:28%;
+	}
+	
+	input[type="text"]{
+		width:70%;
+	}
+	
+	table input[type="text"]{
+		width:100%;
+	}
+	
+}
+
+
+
+@media (max-width:500px) and (min-width:320px) {
+	.wrapper{
+		overflow:hidden;
+	}
+	.mid-wrapper{
+		overflow:hidden;
+	}
+	.svg-icons{
+		display:none;
+		overflow: auto;
+	}
+	.logoimg{
+	padding-top: 20px;
+	}
+  .content{
+	  padding: 0 10px 0 0;
+  }
+  .content,.righ-nav {
+	
+	  width:90%;
+	  float:none;
+	  
+  }
+  .righ-nav{
+	  margin:0 0 0 20px;
+  }
+  
+  .righ-nav section{
+	  padding: 0 15px;
+  }
+  
+  .imgcaption{
+	  float:none;
+	  width:auto;
+  }
+  .services{
+	  width:auto;
+	 
+	 
+  }
+  footer section{
+	  float:none;
+	  width:auto;
+  }
+}​ 
+
+
 
